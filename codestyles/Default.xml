@@ -6,6 +6,7 @@
     </value>
   </option>
   <HTMLCodeStyleSettings>
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,script,template,style" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,script,style" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
